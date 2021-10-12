@@ -20,7 +20,7 @@ Dalam penulisan laporan ini, penulis membatasi permasalahan agar permasalahan ya
 1. Aplikasi ini memuat informasi mengenai berbagai jenis kamera yang ada di toko. 
 2. Sistem pembayaran dilakukan dengan cara transfer melalui nomor rekening toko. 
 3. Sistem yang akan dibangun ini hanya dapat dikelola oleh administrator (pemilik/pegawai). 
-4. Untuk pembelian kamera masih dilakukan dilingkup daerah Yogyakarta, karena pembeliann berbatas waktu. 
+4. Untuk pembelian kamera masih dilakukan dilingkup daerah Yogyakarta, karena pembelian berbatas waktu. 
 5. Bahasa pemrograman yang digunakan dalam Website ini dengan menggunakan bahasa pemrograman PHP dan MySQL
 
 ### D.TUJUAN 
