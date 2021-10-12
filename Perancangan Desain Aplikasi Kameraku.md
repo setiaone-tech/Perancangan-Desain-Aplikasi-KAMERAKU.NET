@@ -29,13 +29,13 @@ Adapun tujuan dari penelitian ini adalah :
 2. Membangun tampilan toko online yang menarik dan inovatif.
 
 ### E. MANFAAT PENELITIAN
-Manfaat yang diperoleh dalam penyusuan rancangan ini antara lain :
+Manfaat yang diperoleh dalam penyusunan rancangan ini antara lain :
 
 **Bagi Penulis** : 
-Untuk mengaplikasikan ilmu yang telah dipelajari selama kuliah
-Menambah wawasan dalam mengembangkan website penjualan online
+1. Untuk mengaplikasikan ilmu yang telah dipelajari selama kuliah
+2. Menambah wawasan dalam mengembangkan website penjualan online
 
 **Bagi Toko** :
-Untuk menghasilkan suatu sistem penjualan dengan memanfaatkan media web dan internet yang dapat mempermudah pemasaran kamera sehingga tranksaksi penjualan kamera dapat dilakukan dengan mudah dan cepat dimana saja dan kapan saja oleh semua pembeli
-Untuk mempermudah pembeli dalam mencari tahu ketersediaan barang dan mempermudah pembeli untuk mencari barang yang mereka inginkan
-Untuk mempromosikan atau mengenalkan toko pada masyarakat dengan jaungkauan pemasaran yang lebih luas sehingga dapat meningkatkan penjualan kamera
+1. Untuk menghasilkan suatu sistem penjualan dengan memanfaatkan media web dan internet yang dapat mempermudah pemasaran kamera sehingga tranksaksi penjualan kamera dapat dilakukan dengan mudah dan cepat dimana saja dan kapan saja oleh semua pembeli
+2. Untuk mempermudah pembeli dalam mencari tahu ketersediaan barang dan mempermudah pembeli untuk mencari barang yang mereka inginkan
+3. Untuk mempromosikan atau mengenalkan toko pada masyarakat dengan jangkauan pemasaran yang lebih luas sehingga dapat meningkatkan penjualan kamera
