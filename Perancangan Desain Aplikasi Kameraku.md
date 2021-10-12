@@ -27,3 +27,14 @@ Dalam penulisan laporan ini, penulis membatasi permasalahan agar permasalahan ya
 Adapun tujuan dari penelitian ini adalah :
 1. Membangun suatu aplikasi penjualan kamera berbasis web yang dapat memenuhi kebutuhan produsen dalam mengelola data dan menawarkan produk kepada konsumen.
 2. Membangun tampilan toko online yang menarik dan inovatif.
+
+### E. MANFAAT PENELITIAN
+Manfaat yang diperoleh dalam penyusuan rancangan ini antara lain :
+Bagi Penulis : 
+Untuk mengaplikasikan ilmu yang telah dipelajari selama kuliah
+Menambah wawasan dalam mengembangkan website penjualan online
+
+Bagi Toko :
+Untuk menghasilkan suatu sistem penjualan dengan memanfaatkan media web dan internet yang dapat mempermudah pemasaran kamera sehingga tranksaksi penjualan kamera dapat dilakukan dengan mudah dan cepat dimana saja dan kapan saja oleh semua pembeli
+Untuk mempermudah pembeli dalam mencari tahu ketersediaan barang dan mempermudah pembeli untuk mencari barang yang mereka inginkan
+Untuk mempromosikan atau mengenalkan toko pada masyarakat dengan jaungkauan pemasaran yang lebih luas sehingga dapat meningkatkan penjualan kamera
