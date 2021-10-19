@@ -46,6 +46,9 @@ Sistem ini dibangun dengan tujuan untuk memperlancar dan mempermudah transaksi j
 setelah pembeli sudah memutuskan apa yang akan mereka pesan pembeli dapat langsung memesannya dan melakukan tranksaksi tanpa harus mendatangi tokonya secara langsung. Dengan memanfaatkan teknologi e-commerce, system ini mempermudah tranksaksi yang dilakukan pembeli. 
 Saat akan melakukan pembayaran, pembeli dapat membayar dengan cara mentransfer uang tersebut melalui beberapa media yang disediakan seperti menggunakan media m-banking atau mentransfernya melewati mesin atm. 
 
+**Diagram Konteks**
+![logo](https://github.com/setiaone-tech/Perancangan-Desain-Aplikasi-KAMERAKU.NET/blob/main/Context%20diagram.drawio%20(1).png) 
+
 **DFD Level 0**
 ![logo](https://github.com/setiaone-tech/Perancangan-Desain-Aplikasi-KAMERAKU.NET/blob/main/DFD%20LEVEL%200.jpg)
 
